@@ -1,0 +1,366 @@
+*
+{
+    margin: 0;
+    padding: 0;  
+}
+.font
+{
+    font-family: "Roboto", Arial, sans-serif;
+}
+.title
+{
+    font-size: 20px;
+}
+.menulist
+{
+    list-style-type: none;
+}
+.button1 
+{
+    border: 2px solid #fcd307;
+    border-radius: 45%;
+    background-color: #fcd307;
+    color:white ;
+}
+.button1:hover
+{
+    color: #fcd307;
+    background-color: white;
+}
+.welcome
+{
+    font-size: 14px;
+    color: #fcd307;
+    line-height: 1px;
+    letter-spacing: 2px;
+}
+.gym1
+{
+    font-size: 28px;
+    letter-spacing: 1px;
+}
+.gym2
+{
+    color: #fcd307;
+}
+.para
+{
+    font-size: 16px;
+    line-height: 1.9;
+    color: #666666;
+}
+.service
+{
+    font-size: 14px;
+    letter-spacing: 2px;
+    color: #fcd307;
+    padding-top: 80px;
+}
+.service_1
+{
+     letter-spacing: 1px;
+}
+.box
+{
+    width: 100px;
+    height: 100px;
+    margin: 0 auto;
+    background: linear-gradient(45deg, #fc6b29 0%, #f1e767 100%);
+    /* position: relative; */
+}
+
+.innerbox
+{
+    width: 50px;
+    height: 50px;
+}
+.feet
+{
+    color: #fcd307; 
+}
+.gole
+{
+    font-size: 20px;
+}
+.mainservice{
+    background-color: #fafafa;
+}
+.part5
+{
+    background-color: #1d1919;
+}
+.button2
+{
+    background: linear-gradient(45deg, #fc6b29 0%, #f1e767 100%);
+    border-radius: 30px;
+    color: #fff;
+    letter-spacing: 1px;
+    font-size: 14px; 
+    width: 70%;
+}
+.button2:hover
+{
+    color: #fff;
+    background: #fd7e14;
+}
+.list{
+    list-style-type: none;
+   
+}
+.list li
+{
+    color: #4d4d4d;
+}
+.t_name
+{
+    font-size: 14px;
+    line-height: 1;
+}
+.dolar
+{
+    font-size: 24px;
+    top: -1em;
+    color: #fcd307;
+}
+.number
+{
+    font-size: 60px;
+    font-weight: 500;
+    color: #fcd307;
+}
+.para1
+{
+    color: #999999;
+}
+.feture
+{
+    letter-spacing: 1px; 
+}
+.tranning{
+   background-color: #fff;
+}
+.back_ground
+{
+    background: #fafafa
+}
+.plans
+{
+    line-height: 1.9;
+    color: #000;
+}
+.stories
+{
+    background-image: url(images/background/person_1.jpg);
+    width: 35%;
+    height: 100px;
+   background-position:center;
+    background-size: cover;
+    border-radius: 50%;    
+}
+.stories2
+{
+    background-image: url(images/background/person_2.jpg);
+    width: 35%;
+    height: 100px;
+   background-position:center;
+    background-size: cover;
+    border-radius: 50%;    
+}
+.stories3
+{
+    background-image: url(images/background/person_3.jpg);
+    width: 35%;
+    height: 100px;
+   background-position:center;
+    background-size: cover;
+    border-radius: 50%;    
+}
+.name1
+{
+    font-weight: 500;
+    font-size: 18px;
+    color: #000;
+}
+.position
+{
+    color: #bfbfbf;
+}
+.BMI
+{
+    color: #000;
+    font-size: 34px;
+}
+.height
+{
+    width: 100%;
+}
+.heihgt_1
+{
+    width: 25;
+}
+.button3
+{
+    background: linear-gradient(45deg, #fc6b29 0%, #f1e767 100%);
+    border-radius: 30px;
+    color: #fff;
+    font-weight: 600;
+    letter-spacing: 1px;
+    font-size: 14px; 
+}
+.button3:hover
+{
+    color: #fff;
+    background: #fd7e14;;
+}
+.admin
+{
+    color: #b3b3b3;
+    font-size: 12px;
+    letter-spacing: 2px;
+}
+.admin:hover
+{
+    color: #b3b3b3;
+}
+.blog1
+{
+    font-size: 20px;
+    margin-bottom: 16px;
+    letter-spacing: 1px;
+    color: #000;
+}
+.blogpara
+{
+    line-height: 1.9;
+    color: #666666;
+}
+
+.text3
+{
+   width: 100%;
+}
+.part10
+{
+    background-image: url(images/illustraction/bg_2.jpg);
+    width: 100%;
+    height: 500px;
+    background-size: cover;
+    background-position: center;
+}
+.part10_1
+{
+    background-color: orange;
+    width: 100%;
+    height: 500px;
+    opacity: 0.5;
+    background-size: cover;
+}
+.number{
+    font-size: 50px;
+}
+.happy
+{
+    font-size: 14px;
+    color: rgba(255, 255, 255, 0.7);
+}
+.date
+{
+   color: gray; 
+   font-size: 13px;
+}
+.tool
+{
+    font-size: 20px;
+}
+.about1
+{
+    font-size: 14px;
+    
+}
+.fsize
+{
+    font-size: 16px;
+}
+.row1
+{
+    margin: 0 auto;
+}
+.f_color
+{
+    height: 1350px;
+}
+.crossfit
+{
+    color: yellow;
+    font-size: 60px;
+}
+.crossfit1
+{
+    color: yellow;
+    margin-bottom: 300px;
+    font-size: 19px;
+   letter-spacing: 15px;
+}
+
+@media(min-width:768px)
+{
+    .welcome{
+        margin-top: 35px;
+    }
+    .size
+    {
+        height: 300px;
+    }
+    .button2
+    {
+        width: 80%;
+    }
+    .bb
+    {
+        width: 32%;
+    }
+    .pad
+   {
+    padding-top: 150px;
+   }
+   .BMI
+   {
+    margin-top: 50px;
+   }
+   .f_color
+   {
+       height: 850px;
+   }
+   .stories
+   {
+    height: 150px;
+   }
+   .stories2
+   {
+    height: 150px;
+   }
+   .stories3
+   {
+    height: 150px;
+   }
+   .book
+   {
+    width: 75%;
+   }
+   .slide1
+    {
+    height: 700px;
+    }
+  
+}
+@media(min-width:992px)
+{
+    .bb {
+        width: 30%;
+    };
+    
+   .f_color
+   {
+       height: 600px;
+   }  
+}
